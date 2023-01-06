@@ -13,6 +13,7 @@ Secondly, the application will tell you every last words of each sentence in the
 When the checkbox is selected, the application will start to find the synonyms and check the one with the closer rhyme with the target rhyme.
 
 ![](https://i.imgur.com/sqyt531.png)
+![](https://i.imgur.com/Tgqh3kT.png)
 
 Finally, you can see the result. Each last word is colored. Left hand side is the resived word, and right hand side is the orginal word.
 ![](https://i.imgur.com/EUdACzc.png)

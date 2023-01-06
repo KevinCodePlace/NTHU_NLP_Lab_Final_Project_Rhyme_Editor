@@ -19,4 +19,4 @@ Finally, you can see the result. Each last word is colored. Left hand side is th
 
 As the result shown above, the target rhyme we choose here is "set-up". The last words in the second and third sentences are both person. Since we consider the context, the person in the second sentence changes to gift, while the person in the third sentence becomes athlete. At the same time, both of them are changed to the rhyme closer to our target word: set-up
 
-Lastly, we further introduce text to speech techique, so you can hear the revised paragraph to get more familiar with the "rhyme" paragraph.
+Lastly, we further introduce text to speech techique, so you can hear the revised paragraph to get more familiar with the rhyme-revised paragraph.

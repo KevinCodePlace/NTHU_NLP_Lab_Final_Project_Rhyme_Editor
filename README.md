@@ -1,5 +1,5 @@
 # Rhyme Editor Readme 
-### [Rhyme Editor Demo Video HERE](https://www.youtube.com/watch?v=DyEEKB5-tmo)
+### [Rhyme EDITOR DEMO VIDEO HERE](https://www.youtube.com/watch?v=DyEEKB5-tmo)
 Let's try!
 
 It is a Streamlit app to edit the paragraph in a rhyme way.
